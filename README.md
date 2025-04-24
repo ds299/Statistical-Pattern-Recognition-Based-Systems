@@ -15,7 +15,7 @@ Even after these cost adjustments, both strategies performed well, which is a st
 
 ---
 
-## 📂 What’s Inside This Repo
+## What’s Inside This Repo
 
 This repository contains **performance tearsheets** for the two strategies:
 
