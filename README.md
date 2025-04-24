@@ -1,4 +1,4 @@
-# Index Trading Strategy Results – Statistical Pattern Recognition Based
+# Index Trading Systems Results – Statistical Pattern Recognition Based
 
 As a market enthusiast, I’ve always been fascinated by index and options charts. Over time, I noticed that certain price patterns tend to **repeat with high probability**, especially during specific market conditions. This curiosity turned into a habit of hypothesis building — testing whether the patterns I observed could be turned into profitable Trading systems.
 
